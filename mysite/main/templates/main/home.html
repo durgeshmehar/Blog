@@ -14,7 +14,8 @@
 </article>
 {% endfor %}
 
-{% if is_paginated %}article class="media content-section d-flex">
+{% if is_paginated %}
+<article class="media content-section d-flex">
 <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}" height="40" width="40">
 <div class="media-body ">
   <div class="article-metadata">
