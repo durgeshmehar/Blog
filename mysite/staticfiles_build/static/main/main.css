@@ -11,17 +11,11 @@ body {
   ul {
     margin: 0;
   }
-  .navbar-brand{
-    color:rgb(141, 203, 203);
-    font-weight: 800;
-  }
   
-  .navbar-brand:hover{
-    color:rgb(88, 230, 88);
-  }
-
   .bg-steel {
-    background-color: #5f788a;
+    /* background-color: #5f788a; */
+    background-color: red;
+
   }
   
   .site-header .navbar-nav .nav-link {
@@ -45,8 +39,7 @@ body {
   }
   
   .article-title {
-    /* color: #444444; */
-    color: #2b4f6f;
+    color: #444444;
   }
   
   a.article-title:hover {
@@ -59,9 +52,9 @@ body {
   }
   
   .article-img {
-    height: 55px;
-    width: 55px;
-    margin-right: 25px;
+    height: 65px;
+    width: 65px;
+    margin-right: 16px;
   }
   
   .article-metadata {
