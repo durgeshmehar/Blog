@@ -34,7 +34,7 @@ Explore the <a href="https://blog-133y.onrender.com/"> Blog </a> website.
   ```
 ## Usage
 1. Ensure the development server is running.
-2. Open your browser and navigate to http://localhost:8000 to access the Blog application.
+2. Open your browser and navigate to  http://127.0.0.1:8000 to access the Blog application.
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
    
