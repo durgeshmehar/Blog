@@ -12,6 +12,7 @@ Explore the <a href="https://blog-133y.onrender.com/"> Blog </a> website.
 - PostgreSQL
 ## Screenshots
 <img src="Images/blog.png">
+
 ## Local Installation
 
 1. **Clone the Repository**
